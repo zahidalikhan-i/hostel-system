@@ -104,7 +104,7 @@ form.user .form-control-user {
   font-weight: 400;
   font-display: block;
   src: url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.eot?23f19bb08961f37aaf692ff943823453);
-  src: url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.eot?23f19bb08961f37aaf692ff943823453) format("embedded-opentype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2?d878b0a6a1144760244ff0665888404c) format("woff2"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff?2285773e6b4b172f07d9b777c81b0775) format("woff"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.ttf?527940b104eb2ea366c8630f3f038603) format("truetype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.svg?2f517e09eb2ca6650ff5bec5a95157ab) format("svg");
+  src: url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.eot?23f19bb08961f37aaf692ff943823453?#iefix) format("embedded-opentype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2?d878b0a6a1144760244ff0665888404c) format("woff2"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff?2285773e6b4b172f07d9b777c81b0775) format("woff"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.ttf?527940b104eb2ea366c8630f3f038603) format("truetype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.svg?2f517e09eb2ca6650ff5bec5a95157ab#fontawesome) format("svg");
 }
 .fab {
   font-family: "Font Awesome 5 Brands";
@@ -121,7 +121,7 @@ form.user .form-control-user {
   font-weight: 400;
   font-display: block;
   src: url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.eot?77206a6bb316fa0aded5083cc57f92b9);
-  src: url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.eot?77206a6bb316fa0aded5083cc57f92b9) format("embedded-opentype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff2?7a3337626410ca2f40718481c755640f) format("woff2"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff?bb58e57c48a3e911f15fa834ff00d44a) format("woff"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.ttf?491974d108fe4002b2aaf7ffc48249a0) format("truetype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.svg?4689f52cc96215721344e51e5831eec1) format("svg");
+  src: url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.eot?77206a6bb316fa0aded5083cc57f92b9?#iefix) format("embedded-opentype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff2?7a3337626410ca2f40718481c755640f) format("woff2"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff?bb58e57c48a3e911f15fa834ff00d44a) format("woff"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.ttf?491974d108fe4002b2aaf7ffc48249a0) format("truetype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.svg?4689f52cc96215721344e51e5831eec1#fontawesome) format("svg");
 }
 .far {
   font-family: "Font Awesome 5 Free";
@@ -138,7 +138,7 @@ form.user .form-control-user {
   font-weight: 900;
   font-display: block;
   src: url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.eot?9bbb245e67a133f6e486d8d2545e14a5);
-  src: url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.eot?9bbb245e67a133f6e486d8d2545e14a5) format("embedded-opentype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2?1551f4f60c37af51121f106501f69b80) format("woff2"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff?eeccf4f66002c6f2ba24d3d22f2434c2) format("woff"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.ttf?be9ee23c0c6390141475d519c2c5fb8f) format("truetype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.svg?7a8b4f130182d19a2d7c67d80c090397) format("svg");
+  src: url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.eot?9bbb245e67a133f6e486d8d2545e14a5?#iefix) format("embedded-opentype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2?1551f4f60c37af51121f106501f69b80) format("woff2"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff?eeccf4f66002c6f2ba24d3d22f2434c2) format("woff"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.ttf?be9ee23c0c6390141475d519c2c5fb8f) format("truetype"), url(/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.svg?7a8b4f130182d19a2d7c67d80c090397#fontawesome) format("svg");
 }
 .fa,
 .fas {
@@ -17215,67 +17215,67 @@ form.user .btn-user {
 
 @keyframes noise-anim {
   0% {
-    clip: rect(94px, 9999px, 92px, 0);
+    clip: rect(11px, 9999px, 14px, 0);
   }
   5% {
-    clip: rect(71px, 9999px, 80px, 0);
+    clip: rect(58px, 9999px, 94px, 0);
   }
   10% {
-    clip: rect(41px, 9999px, 72px, 0);
+    clip: rect(51px, 9999px, 13px, 0);
   }
   15% {
-    clip: rect(60px, 9999px, 78px, 0);
+    clip: rect(100px, 9999px, 53px, 0);
   }
   20% {
-    clip: rect(65px, 9999px, 77px, 0);
+    clip: rect(83px, 9999px, 93px, 0);
   }
   25% {
-    clip: rect(60px, 9999px, 13px, 0);
+    clip: rect(75px, 9999px, 94px, 0);
   }
   30% {
-    clip: rect(90px, 9999px, 70px, 0);
+    clip: rect(10px, 9999px, 41px, 0);
   }
   35% {
-    clip: rect(24px, 9999px, 89px, 0);
+    clip: rect(9px, 9999px, 35px, 0);
   }
   40% {
-    clip: rect(6px, 9999px, 13px, 0);
+    clip: rect(31px, 9999px, 90px, 0);
   }
   45% {
-    clip: rect(88px, 9999px, 31px, 0);
+    clip: rect(17px, 9999px, 48px, 0);
   }
   50% {
-    clip: rect(70px, 9999px, 52px, 0);
+    clip: rect(84px, 9999px, 53px, 0);
   }
   55% {
-    clip: rect(98px, 9999px, 32px, 0);
+    clip: rect(61px, 9999px, 14px, 0);
   }
   60% {
-    clip: rect(1px, 9999px, 32px, 0);
+    clip: rect(92px, 9999px, 66px, 0);
   }
   65% {
-    clip: rect(74px, 9999px, 56px, 0);
+    clip: rect(14px, 9999px, 19px, 0);
   }
   70% {
-    clip: rect(82px, 9999px, 16px, 0);
+    clip: rect(75px, 9999px, 28px, 0);
   }
   75% {
-    clip: rect(20px, 9999px, 59px, 0);
+    clip: rect(10px, 9999px, 46px, 0);
   }
   80% {
-    clip: rect(59px, 9999px, 93px, 0);
+    clip: rect(1px, 9999px, 94px, 0);
   }
   85% {
-    clip: rect(35px, 9999px, 19px, 0);
+    clip: rect(79px, 9999px, 5px, 0);
   }
   90% {
-    clip: rect(48px, 9999px, 70px, 0);
+    clip: rect(86px, 9999px, 54px, 0);
   }
   95% {
-    clip: rect(8px, 9999px, 7px, 0);
+    clip: rect(39px, 9999px, 50px, 0);
   }
   100% {
-    clip: rect(2px, 9999px, 95px, 0);
+    clip: rect(89px, 9999px, 43px, 0);
   }
 }
 .error:after {
@@ -17293,67 +17293,67 @@ form.user .btn-user {
 
 @keyframes noise-anim-2 {
   0% {
-    clip: rect(30px, 9999px, 52px, 0);
+    clip: rect(73px, 9999px, 45px, 0);
   }
   5% {
-    clip: rect(51px, 9999px, 75px, 0);
+    clip: rect(77px, 9999px, 17px, 0);
   }
   10% {
-    clip: rect(87px, 9999px, 29px, 0);
+    clip: rect(14px, 9999px, 44px, 0);
   }
   15% {
-    clip: rect(10px, 9999px, 2px, 0);
+    clip: rect(20px, 9999px, 8px, 0);
   }
   20% {
-    clip: rect(58px, 9999px, 36px, 0);
+    clip: rect(89px, 9999px, 94px, 0);
   }
   25% {
-    clip: rect(4px, 9999px, 38px, 0);
+    clip: rect(7px, 9999px, 22px, 0);
   }
   30% {
-    clip: rect(86px, 9999px, 43px, 0);
+    clip: rect(4px, 9999px, 14px, 0);
   }
   35% {
-    clip: rect(85px, 9999px, 22px, 0);
+    clip: rect(52px, 9999px, 52px, 0);
   }
   40% {
-    clip: rect(36px, 9999px, 13px, 0);
+    clip: rect(35px, 9999px, 88px, 0);
   }
   45% {
-    clip: rect(97px, 9999px, 84px, 0);
+    clip: rect(82px, 9999px, 24px, 0);
   }
   50% {
-    clip: rect(57px, 9999px, 75px, 0);
+    clip: rect(25px, 9999px, 97px, 0);
   }
   55% {
-    clip: rect(26px, 9999px, 65px, 0);
+    clip: rect(49px, 9999px, 67px, 0);
   }
   60% {
-    clip: rect(78px, 9999px, 8px, 0);
+    clip: rect(93px, 9999px, 87px, 0);
   }
   65% {
-    clip: rect(95px, 9999px, 87px, 0);
+    clip: rect(47px, 9999px, 15px, 0);
   }
   70% {
-    clip: rect(73px, 9999px, 27px, 0);
+    clip: rect(11px, 9999px, 15px, 0);
   }
   75% {
-    clip: rect(97px, 9999px, 2px, 0);
+    clip: rect(77px, 9999px, 22px, 0);
   }
   80% {
-    clip: rect(33px, 9999px, 27px, 0);
+    clip: rect(26px, 9999px, 79px, 0);
   }
   85% {
-    clip: rect(31px, 9999px, 34px, 0);
+    clip: rect(27px, 9999px, 39px, 0);
   }
   90% {
-    clip: rect(2px, 9999px, 94px, 0);
+    clip: rect(65px, 9999px, 2px, 0);
   }
   95% {
-    clip: rect(53px, 9999px, 88px, 0);
+    clip: rect(19px, 9999px, 76px, 0);
   }
   100% {
-    clip: rect(38px, 9999px, 89px, 0);
+    clip: rect(77px, 9999px, 62px, 0);
   }
 }
 .error:before {

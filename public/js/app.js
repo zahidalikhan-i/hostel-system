@@ -65182,9 +65182,12 @@ var __WEBPACK_AMD_DEFINE_RESULT__;/**
 /*!*********************************!*\
   !*** ./resources/sass/app.scss ***!
   \*********************************/
-/***/ (() => {
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-throw new Error("Module build failed: Error: UNKNOWN: unknown error, read\n    at Object.readSync (node:fs:742:3)\n    at tryReadSync (node:fs:442:20)\n    at Object.readFileSync (node:fs:480:19)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1143:18)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at Object.<anonymous> (C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\resolve-url-loader\\node_modules\\loader-utils\\lib\\index.js:5:26)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at Object.<anonymous> (C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\resolve-url-loader\\index.js:9:25)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\webpack\\lib\\ProgressPlugin.js:457:9\n    at Hook.eval [as call] (eval at create (C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\tapable\\lib\\HookCodeFactory.js:19:10), <anonymous>:7:1)\n    at NormalModule._doBuild (C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\webpack\\lib\\NormalModule.js:899:24)\n    at NormalModule.build (C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\webpack\\lib\\NormalModule.js:1086:15)\n    at C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\webpack\\lib\\Compilation.js:1406:12\n    at NormalModule.needBuild (C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\webpack\\lib\\NormalModule.js:1410:32)\n    at Compilation._buildModule (C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\webpack\\lib\\Compilation.js:1387:10)\n    at C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\webpack\\lib\\util\\AsyncQueue.js:305:10\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at AsyncQueue._startProcessing (C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\webpack\\lib\\util\\AsyncQueue.js:295:26)\n    at AsyncQueue._ensureProcessing (C:\\Users\\Zahid Ali Khan\\OneDrive\\Desktop\\projects\\hostel-project\\node_modules\\webpack\\lib\\util\\AsyncQueue.js:282:12)\n    at processImmediate (node:internal/timers:466:21)");
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
 
 /***/ }),
 
@@ -90349,13 +90352,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _App_vue_vue_type_template_id_f348271a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./App.vue?vue&type=template&id=f348271a */ "./resources/js/App.vue?vue&type=template&id=f348271a");
 /* harmony import */ var _App_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./App.vue?vue&type=script&lang=js */ "./resources/js/App.vue?vue&type=script&lang=js");
-/* harmony import */ var C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_App_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_App_vue_vue_type_template_id_f348271a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/App.vue"]])
+const __exports__ = /*#__PURE__*/(0,D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_App_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_App_vue_vue_type_template_id_f348271a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/App.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90377,13 +90380,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Nav_vue_vue_type_template_id_7cd4f788__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Nav.vue?vue&type=template&id=7cd4f788 */ "./resources/js/components/Nav.vue?vue&type=template&id=7cd4f788");
 /* harmony import */ var _Nav_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Nav.vue?vue&type=script&lang=js */ "./resources/js/components/Nav.vue?vue&type=script&lang=js");
-/* harmony import */ var C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Nav_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Nav_vue_vue_type_template_id_7cd4f788__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/components/Nav.vue"]])
+const __exports__ = /*#__PURE__*/(0,D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Nav_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Nav_vue_vue_type_template_id_7cd4f788__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/components/Nav.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90406,7 +90409,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Sidebar_vue_vue_type_template_id_e10326fc_scoped_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Sidebar.vue?vue&type=template&id=e10326fc&scoped=true */ "./resources/js/views/admin/components/Sidebar.vue?vue&type=template&id=e10326fc&scoped=true");
 /* harmony import */ var _Sidebar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Sidebar.vue?vue&type=script&lang=js */ "./resources/js/views/admin/components/Sidebar.vue?vue&type=script&lang=js");
 /* harmony import */ var _Sidebar_vue_vue_type_style_index_0_id_e10326fc_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Sidebar.vue?vue&type=style&index=0&id=e10326fc&scoped=true&lang=css */ "./resources/js/views/admin/components/Sidebar.vue?vue&type=style&index=0&id=e10326fc&scoped=true&lang=css");
-/* harmony import */ var C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
@@ -90414,7 +90417,7 @@ __webpack_require__.r(__webpack_exports__);
 ;
 
 
-const __exports__ = /*#__PURE__*/(0,C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_Sidebar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Sidebar_vue_vue_type_template_id_e10326fc_scoped_true__WEBPACK_IMPORTED_MODULE_0__.render],['__scopeId',"data-v-e10326fc"],['__file',"resources/js/views/admin/components/Sidebar.vue"]])
+const __exports__ = /*#__PURE__*/(0,D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_Sidebar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Sidebar_vue_vue_type_template_id_e10326fc_scoped_true__WEBPACK_IMPORTED_MODULE_0__.render],['__scopeId',"data-v-e10326fc"],['__file',"resources/js/views/admin/components/Sidebar.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90437,7 +90440,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Topbar_vue_vue_type_template_id_7bfd2830__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Topbar.vue?vue&type=template&id=7bfd2830 */ "./resources/js/views/admin/components/Topbar.vue?vue&type=template&id=7bfd2830");
 /* harmony import */ var _Topbar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Topbar.vue?vue&type=script&lang=js */ "./resources/js/views/admin/components/Topbar.vue?vue&type=script&lang=js");
 /* harmony import */ var _Topbar_vue_vue_type_style_index_0_id_7bfd2830_lang_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Topbar.vue?vue&type=style&index=0&id=7bfd2830&lang=css */ "./resources/js/views/admin/components/Topbar.vue?vue&type=style&index=0&id=7bfd2830&lang=css");
-/* harmony import */ var C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
@@ -90445,7 +90448,7 @@ __webpack_require__.r(__webpack_exports__);
 ;
 
 
-const __exports__ = /*#__PURE__*/(0,C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_Topbar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Topbar_vue_vue_type_template_id_7bfd2830__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/views/admin/components/Topbar.vue"]])
+const __exports__ = /*#__PURE__*/(0,D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_Topbar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Topbar_vue_vue_type_template_id_7bfd2830__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/views/admin/components/Topbar.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90467,13 +90470,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _index_vue_vue_type_template_id_0a4a052c__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.vue?vue&type=template&id=0a4a052c */ "./resources/js/views/admin/layout/index.vue?vue&type=template&id=0a4a052c");
 /* harmony import */ var _index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./index.vue?vue&type=script&lang=js */ "./resources/js/views/admin/layout/index.vue?vue&type=script&lang=js");
-/* harmony import */ var C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_index_vue_vue_type_template_id_0a4a052c__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/views/admin/layout/index.vue"]])
+const __exports__ = /*#__PURE__*/(0,D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_index_vue_vue_type_template_id_0a4a052c__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/views/admin/layout/index.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90496,7 +90499,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Topbar_vue_vue_type_template_id_d3d4b0d8__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Topbar.vue?vue&type=template&id=d3d4b0d8 */ "./resources/js/views/student/components/Topbar.vue?vue&type=template&id=d3d4b0d8");
 /* harmony import */ var _Topbar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Topbar.vue?vue&type=script&lang=js */ "./resources/js/views/student/components/Topbar.vue?vue&type=script&lang=js");
 /* harmony import */ var _Topbar_vue_vue_type_style_index_0_id_d3d4b0d8_lang_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Topbar.vue?vue&type=style&index=0&id=d3d4b0d8&lang=css */ "./resources/js/views/student/components/Topbar.vue?vue&type=style&index=0&id=d3d4b0d8&lang=css");
-/* harmony import */ var C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
@@ -90504,7 +90507,7 @@ __webpack_require__.r(__webpack_exports__);
 ;
 
 
-const __exports__ = /*#__PURE__*/(0,C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_Topbar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Topbar_vue_vue_type_template_id_d3d4b0d8__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/views/student/components/Topbar.vue"]])
+const __exports__ = /*#__PURE__*/(0,D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_3__["default"])(_Topbar_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Topbar_vue_vue_type_template_id_d3d4b0d8__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/views/student/components/Topbar.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -90526,13 +90529,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _index_vue_vue_type_template_id_76d22e00__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.vue?vue&type=template&id=76d22e00 */ "./resources/js/views/student/layout/index.vue?vue&type=template&id=76d22e00");
 /* harmony import */ var _index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./index.vue?vue&type=script&lang=js */ "./resources/js/views/student/layout/index.vue?vue&type=script&lang=js");
-/* harmony import */ var C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_Users_Zahid_Ali_Khan_OneDrive_Desktop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_index_vue_vue_type_template_id_76d22e00__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/views/student/layout/index.vue"]])
+const __exports__ = /*#__PURE__*/(0,D_projects_DeskTop_projects_hostel_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_index_vue_vue_type_template_id_76d22e00__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/views/student/layout/index.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -102690,6 +102693,38 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"axios","version":"0.21.4","de
 /******/ 	__webpack_require__.m = __webpack_modules__;
 /******/ 	
 /************************************************************************/
+/******/ 	/* webpack/runtime/chunk loaded */
+/******/ 	(() => {
+/******/ 		var deferred = [];
+/******/ 		__webpack_require__.O = (result, chunkIds, fn, priority) => {
+/******/ 			if(chunkIds) {
+/******/ 				priority = priority || 0;
+/******/ 				for(var i = deferred.length; i > 0 && deferred[i - 1][2] > priority; i--) deferred[i] = deferred[i - 1];
+/******/ 				deferred[i] = [chunkIds, fn, priority];
+/******/ 				return;
+/******/ 			}
+/******/ 			var notFulfilled = Infinity;
+/******/ 			for (var i = 0; i < deferred.length; i++) {
+/******/ 				var [chunkIds, fn, priority] = deferred[i];
+/******/ 				var fulfilled = true;
+/******/ 				for (var j = 0; j < chunkIds.length; j++) {
+/******/ 					if ((priority & 1 === 0 || notFulfilled >= priority) && Object.keys(__webpack_require__.O).every((key) => (__webpack_require__.O[key](chunkIds[j])))) {
+/******/ 						chunkIds.splice(j--, 1);
+/******/ 					} else {
+/******/ 						fulfilled = false;
+/******/ 						if(priority < notFulfilled) notFulfilled = priority;
+/******/ 					}
+/******/ 				}
+/******/ 				if(fulfilled) {
+/******/ 					deferred.splice(i--, 1)
+/******/ 					var r = fn();
+/******/ 					if (r !== undefined) result = r;
+/******/ 				}
+/******/ 			}
+/******/ 			return result;
+/******/ 		};
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/compat get default export */
 /******/ 	(() => {
 /******/ 		// getDefaultExport function for compatibility with non-harmony modules
@@ -102743,7 +102778,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"axios","version":"0.21.4","de
 /******/ 		// This function allow to reference all chunks
 /******/ 		__webpack_require__.miniCssF = (chunkId) => {
 /******/ 			// return url for filenames based on template
-/******/ 			return undefined;
+/******/ 			return "" + chunkId + ".css";
 /******/ 		};
 /******/ 	})();
 /******/ 	
@@ -102843,7 +102878,8 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"axios","version":"0.21.4","de
 /******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
-/******/ 			"/js/app": 0
+/******/ 			"/js/app": 0,
+/******/ 			"css/app": 0
 /******/ 		};
 /******/ 		
 /******/ 		__webpack_require__.f.j = (chunkId, promises) => {
@@ -102855,7 +102891,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"axios","version":"0.21.4","de
 /******/ 					if(installedChunkData) {
 /******/ 						promises.push(installedChunkData[2]);
 /******/ 					} else {
-/******/ 						if(true) { // all chunks have JS
+/******/ 						if("css/app" != chunkId) {
 /******/ 							// setup Promise in chunk cache
 /******/ 							var promise = new Promise((resolve, reject) => (installedChunkData = installedChunks[chunkId] = [resolve, reject]));
 /******/ 							promises.push(installedChunkData[2] = promise);
@@ -102880,7 +102916,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"axios","version":"0.21.4","de
 /******/ 								}
 /******/ 							};
 /******/ 							__webpack_require__.l(url, loadingEnded, "chunk-" + chunkId, chunkId);
-/******/ 						}
+/******/ 						} else installedChunks[chunkId] = 0;
 /******/ 					}
 /******/ 				}
 /******/ 		};
@@ -102893,7 +102929,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"axios","version":"0.21.4","de
 /******/ 		
 /******/ 		// no HMR manifest
 /******/ 		
-/******/ 		// no on chunks loaded
+/******/ 		__webpack_require__.O.j = (chunkId) => (installedChunks[chunkId] === 0);
 /******/ 		
 /******/ 		// install a JSONP callback for chunk loading
 /******/ 		var webpackJsonpCallback = (parentChunkLoadingFunction, data) => {
@@ -102917,7 +102953,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"axios","version":"0.21.4","de
 /******/ 				}
 /******/ 				installedChunks[chunkId] = 0;
 /******/ 			}
-/******/ 		
+/******/ 			return __webpack_require__.O(result);
 /******/ 		}
 /******/ 		
 /******/ 		var chunkLoadingGlobal = self["webpackChunk"] = self["webpackChunk"] || [];
@@ -102934,9 +102970,10 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"axios","version":"0.21.4","de
 /******/ 	
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
-/******/ 	__webpack_require__("./resources/js/app.js");
-/******/ 	// This entry module doesn't tell about it's top-level declarations so it can't be inlined
-/******/ 	var __webpack_exports__ = __webpack_require__("./resources/sass/app.scss");
+/******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
+/******/ 	__webpack_require__.O(undefined, ["css/app"], () => (__webpack_require__("./resources/js/app.js")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/app"], () => (__webpack_require__("./resources/sass/app.scss")))
+/******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()
 ;
