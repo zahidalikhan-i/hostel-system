@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'Material Symbols Outlined';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../public/fonts/material-design-icons.woff2') format('woff2');
+}
+
+.material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 18px !important;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-setting: 'liga';
+    -webkit-font-smoothing: antialiased;
+}
+
+.img-holder {
+    background-color: #e2e4ec!important;
+}
+
+.bg-login-image {
+    background: url("../../public/images/img/gpgc mandian hostel.jpg") !important;
+    background-position: center;
+    background-repeat: no-repeat !important;
+    background-size: cover;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.bg-register-image {
+    background: url("../../public/images/img//gpgc mandian hostel.jpg") !important;
+    background-position: center;                                                                                    
+    background-size: cover;
+    background-color: #dee1e9!important;
+}
+
+.bg-password-image {
+    background: url("../../public/images/img//gpgc mandian hostel.jpg") !important;
+    background-position: center !important;
+    background-size: cover!important;
+    background-repeat: no-repeat !important;
+}
+
+.bg-gradient-black {
+    background-color: #151529;
+}
+
+.btn-primary {
+    color: #0000;
+    background-color:#4e73df !important;
+    border-color: #4e73df !important;
+    box-shadow: 0px 1px 20px 1px blue(255, 73, 97, 0.6);
+}
+
+.btn-primary:hover {
+    border-color: #4e73df!important;
+    background-color: #4e73df!important;
+    color: #FFF !important;
+}
+
+form.user .btn-user {
+    font-size: 0.8rem;
+    border-radius: 6px !important;
+    padding: 7px !important;
+}
+
+form.user .form-control-user {
+    font-size: 0.8rem;
+    border-radius: 6px !important;
+    padding: 7px !important;
+}
+/* Table */
+.table th,
+.table td {
+    color: #000; /* Dark black color */
+}
+.search-box input[type="text"] {
+    color: #000; /* Dark black color */
+}
+
+/* Apply bold and dark black color to table borders */
+.table {
+    border: 2px solid #000; /* Dark black color */
+}
+
+
