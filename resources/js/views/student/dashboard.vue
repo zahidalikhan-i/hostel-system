@@ -120,7 +120,7 @@
 				</div>
 			</div>
 			<!-- Right Column: Room Status Chart -->
-			<div class="col-lg-4">
+			<div class="col-lg-4 col-xl-3 col-md-6">
 				<div class="card shadow mb-4">
 					<div class="card-header py-2">
 						<h6 class="m-0 font-weight-bold text-primary">Room Status Chart</h6>
